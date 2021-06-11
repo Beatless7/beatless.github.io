@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Pages
 
-It's my pleasure to introduce you something I interested in.
+It is my pleasure to introduce you something I interested in.
 
 
 ### Markdown
@@ -27,5 +27,5 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## from now on,I'd like to share more excited things.
-by the way,I prefer to acknowledge artificial intelligence ,more exactly,it's machine learning.Hope we can benifit from each other!
+## From now on, I'd like to share more excited things.
+By the way, I prefer to acknowledge artificial intelligence ,more exactly, it calls machine learning.Hope we can benifit from each other!
